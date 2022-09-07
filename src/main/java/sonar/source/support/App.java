@@ -19,4 +19,8 @@ public class App
     public void func2()
     {
     }
+
+    public void func-feature-1()
+    {
+    }
 }
