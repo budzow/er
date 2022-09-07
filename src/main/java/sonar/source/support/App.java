@@ -14,5 +14,8 @@ public class App
     public void func1()
     {
     }
+    
+    public void func2(){
+	  }
 
 }
