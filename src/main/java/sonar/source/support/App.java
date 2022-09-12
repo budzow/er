@@ -1,5 +1,6 @@
 package sonar.source.support;
 
+
 /**
  * Hello world!
  
