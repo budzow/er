@@ -19,4 +19,11 @@ public class App
     public void func2()
     {
     }
+
+    public void func3()
+    {
+    }
+
+    //TODO nasty TODO
+    //
 }
