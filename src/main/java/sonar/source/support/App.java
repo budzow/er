@@ -3,8 +3,6 @@ package sonar.source.support;
 
 /**
  * Hello world!
- 
- *
  */
 public class App 
 {
